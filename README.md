@@ -9,6 +9,7 @@ Learn how to create awesome Microservices and RESTful web services with Spring a
 Updates
 - Jan 2021: Docker and Kubernetes added to the course!
 - Aug 2022: REST API V2 recorded with Spring Boot 3
+- July 2023: READme updated.
 
 
 ## Launch MySQL as Docker Container
