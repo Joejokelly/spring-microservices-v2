@@ -10,7 +10,9 @@ Updates
 - Jan 2021: Docker and Kubernetes added to the course!
 - Aug 2022: REST API V2 recorded with Spring Boot 3
 - July 2023: READme updated.
-
+- July 31 2023: Readme updated
+++ Updated again using text mate 2
+++ Also use udemy coures to complete.
 
 ## Launch MySQL as Docker Container
 
